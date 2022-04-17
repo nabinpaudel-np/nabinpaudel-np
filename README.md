@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Devepement and Automation.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on smaller opensource project to learn, grow and help the community at the same time.
+- 💻 I'm currently working as Project Manager at [Webpoint Solutions, LLC.](webpoint.io)
 - 📫 Reach out to me on Linked in https://www.linkedin.com/in/innabinpaudel/ or instagram at @nabinpaudel_  .
 
 <!---
