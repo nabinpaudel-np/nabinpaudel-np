@@ -6,15 +6,29 @@
 - 💻 I'm currently working as Project Coordinator at [Webpoint Solutions, LLC.](webpoint.io)
 - 📫 Say Hello:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/innabinpaudel) 
 
-![](https://github-readme-stats.vercel.app/api?username=nabinpaudel-np&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true)<br/>
+<img src="https://komarev.com/ghpvc/?username=nabinpaudel-np" alt="profile-view" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinpaudel-np&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nabinpaudel-np&theme=gruvbox&hide_border=true)<br/>
+<table>
+  <tr>
+      <p>&nbsp;<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=nabinpaudel-np&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true" alt="total-commit"/</p>
+  </tr>
+    <tr>
+      <p>&nbsp;<img align="center" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=nabinpaudel-np&theme=gruvbox&hide_border=true" alt="github-streaks"/</p>
+  </tr>
+</table>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=nabinpaudel-np" alt="nabinpaudel-github-view />
-</p>
+<table>
+  <tr>
+    <td>
+      <p>&nbsp;<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabinpaudel-np&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="nabinpaudel-top-language"/</p>
+    </td>
+    <td>
+      <p>&nbsp;<img align="center" height="200px" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt="nabinpaudel-course-meme /></p>
+    </td>
+  </tr>
+</table>
 
 
 <!---
