@@ -7,8 +7,9 @@
 
 [![Nabin's github stats](https://github-readme-stats.vercel.app/api?username=nabinpaudel-np&show_icons=true&hide_border=true&theme=tokyonight)](https://nabinpaudel-np.github.io)
 
-[![HitCount](http://hits.dwyl.com/nabinpaudel-np/nabinpaudel-np.svg)](http://hits.dwyl.com/nabinpaudel-np/nabinpaudel-np)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinpaudel-np&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+[![HitCount](http://hits.dwyl.com/nabinpaudel-np/nabinpaudel-np.svg)](http://hits.dwyl.com/nabinpaudel-np/nabinpaudel-np)
 
 <!---
 nabinpaudel-np/nabinpaudel-np is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
