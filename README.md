@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Nabin Paudel.
-- 👀 I’m interested in Web Devepement and Automation.
+- 👀 I’m interested in Web Developement and Automation.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on smaller project to learn from it.
 - 💻 I'm currently working as Project Coordinator at [Webpoint Solutions, LLC.](webpoint.io)
