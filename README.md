@@ -14,7 +14,7 @@
   <tr>
       <p>&nbsp;<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=nabinpaudel-np&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true" alt="total-commit"/</p>
   </tr>
-    <tr>
+  <tr>
       <p>&nbsp;<img align="center" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=nabinpaudel-np&theme=gruvbox&hide_border=true" alt="github-streaks"/</p>
   </tr>
 </table>
