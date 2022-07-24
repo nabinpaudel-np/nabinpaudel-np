@@ -25,7 +25,9 @@
       <p>&nbsp;<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabinpaudel-np&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="nabinpaudel-top-language"/</p>
     </td>
     <td>
-      <p>&nbsp;<img align="center" height="200px" src="https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9 /></p>
+      <p>&nbsp;
+        <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/scZPhLqaVOM1qG4lT9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9"></a></p>
+      </p>
     </td>
   </tr>
 </table>
