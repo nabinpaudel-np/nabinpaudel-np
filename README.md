@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on smaller project to learn from it.
 - 💻 I'm currently working as Associate Project Manager at [Webpoint Solutions, LLC.](webpoint.io)
 - 📫 Say Hello:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/innabinpaudel) 
+- I write on Medium: https://nabinpaudel.medium.com/
 
 <img src="https://komarev.com/ghpvc/?username=nabinpaudel-np" alt="profile-view" />
 
